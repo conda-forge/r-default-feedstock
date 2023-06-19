@@ -1,11 +1,11 @@
-About r-default
-===============
+About r-default-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-default-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=default
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-default-feedstock/blob/main/LICENSE.txt)
 
 Summary: A simple syntax to change the default values for function arguments, whether they are in packages or defined locally.
 
